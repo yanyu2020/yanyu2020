@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hi.hacking.icu</id>
     <title>苏言与的博客</title>
-    <updated>2020-07-26T14:11:29.229Z</updated>
+    <updated>2020-08-02T06:38:06.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hi.hacking.icu"/>
     <link rel="self" href="https://hi.hacking.icu/atom.xml"/>
@@ -11,12 +11,13 @@
     <icon>https://hi.hacking.icu/favicon.ico</icon>
     <rights>All rights reserved 2020, 苏言与的博客</rights>
     <entry>
-        <title type="html"><![CDATA[周日生活小记]]></title>
-        <id>https://hi.hacking.icu/post/zhou-ri-sheng-huo-xiao-ji/</id>
-        <link href="https://hi.hacking.icu/post/zhou-ri-sheng-huo-xiao-ji/">
+        <title type="html"><![CDATA[使用pipenv创建虚拟环境]]></title>
+        <id>https://hi.hacking.icu/post/shi-yong-pipenv-chuang-jian-xu-ni-huan-jing/</id>
+        <link href="https://hi.hacking.icu/post/shi-yong-pipenv-chuang-jian-xu-ni-huan-jing/">
         </link>
-        <updated>2020-07-26T14:08:39.000Z</updated>
-        <content type="html"><![CDATA[<p>今天基本上都在外面，来来回回地坐地铁。</p>
+        <updated>2020-08-02T06:20:27.000Z</updated>
+        <content type="html"><![CDATA[<p>本篇文档主要记录了在Flask框架开发项目时，如何使用pipenv工具来创建虚拟环境。</p>
+<p>** 第一步：下载pipenv  <code>pip install pipenv</code></p>
 ]]></content>
     </entry>
 </feed>
